@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🔭 I’m currently working on Learning, Myself.
+- 🌱 I’m currently learning Web Development, Flutter.
+- 👯 I’m looking to collaborate on useful Open Source.
+- 🤔 I’m looking for help with Organizing, Productivity Stuff.
+- ⚡ Fun fact: Simplicity is the best thing if there are nested tags in there :)
